@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  background-color: #E4E5E7;
+  background-color: #e4a9d6;
   padding-top: 30px;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@ body {
   padding-top: 5px;
 }
 .gray {
-  color: #BDBDBD;
+  color: #7f4881;
 }
 .task-title--done {
   text-decoration: line-through;
